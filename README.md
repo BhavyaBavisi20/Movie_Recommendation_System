@@ -41,13 +41,13 @@ Required Libraries:
 
 streamlit
 
-Dataset and PKL file attachment:-
-
-https://drive.google.com/drive/folders/1n7-sJZ1WbglmaB1Sgrf5-uwxNev6YnhI
-
 pandas
 
 scikit-learn
 
 requests
 
+
+Dataset and PKL file attachment:-
+
+https://drive.google.com/drive/folders/1n7-sJZ1WbglmaB1Sgrf5-uwxNev6YnhI
